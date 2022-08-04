@@ -1,21 +1,23 @@
 # Switch Adapted Bubble Blower Fan
-The Switch Adapted Bubble Blower Fan is 
+The Switch Adapted Bubble Blower Fan is a commercial toy modified for use with an assistive switch. The Switch Adapted Bubble Blower may be beneficial to someone who may have difficulty pressing the original small activation button due to its size, location, or required activation force.
 
-<img src="Photos/Device-Name.jpg" width="500" alt="Picture of Device-Name.">
+Attach an assistive switch with a 3.5 mm plug to the 3.5 mm jack on the toy. When the assistive switch is activated, the toy will generate bubbles. 
+
+<img src="Photos/SwitchAdaptedBubbleBlowerFan.jpg" width="500" alt="Picture of Bubble Blower Fan with a connected assistive switch.">
 
 ## More info at
-- [Makers Making Change Project Page](<Add link>)
-- [Makers Making Change Forum Thread](<Add link>)
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/switch-adapted-bubble-blower-fan/)
 
 
-## How to Obtain a <Device-Name>
+
+## How to Obtain a Switch Adapted Bubble Blower Fan
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the <Device-Name> are contained within this repository. Refer to the Maker Checklist below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Switch Adapted Bubble Blower Fan are contained within this repository. Refer to the Maker Checklist below.
 
 ### 2. Request a build of this device
 
-If you would like to obtain a <Device-Name> , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/device-name/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Switch Adapted Bubble Blower Fan , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/switch-adapted-bubble-blower-fan/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -26,34 +28,27 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-The Makers Checklist 
+The Makers Checklist provides an outline of all the steps required to create the switch adapted toy.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Device-Name_BOM.xlsx) lists all of the parts and components required to build the Open Wobble Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The [Bill of Materials](/Documentation/BubbleBlowerFan_BOM.xlsx) lists all of the parts and components required to build the device.
 
+### 3. Assemble the Switch Adapted Bubble Blower Fan
 
-### 3. Print the 3D Printable components
-
-Print the components ...
-
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
-
-### 4. Assemble the <Device-Name>...
-
-Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/BubbleBlowerFan_Assembly_Guide_v1.0.pdf) for the tools and steps required.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [DeviceName_Design_Rationale](/Documentation/Device-Name_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [DeviceName_Maker_Checklist](/Documentation/Device-Name_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/Device-Name_BOM_v1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [DeviceName_3D_Printing_Guide](/Documentation/Device-Name_3D_Printing_Guide_v1.0.pdf)     |
-| Assembly Guide       | 1.0     | [DeviceName_Assembly_Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf)     |
-| User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Device-Name_Quick_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/Device-Name_Changelog_v1.0.pdf)     |
+| Design Rationale     | 1.0     | [DeviceName_Design_Rationale](/Documentation/BubbleBlowerFan_Design_Rationale_v1.0.pdf)     |
+| Maker Checklist      | 1.0     | [DeviceName_Maker_Checklist](/Documentation/BubbleBlowerFan_Maker_Checklist_v1.0.pdf)     |
+| Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/BubbleBlowerFan_BOM_v1.0.xlsx)     |
+| 3D Printing Guide    | 1.0     | [DeviceName_3D_Printing_Guide](/Documentation/BubbleBlowerFan_3D_Printing_Guide_v1.0.pdf)     |
+| Assembly Guide       | 1.0     | [DeviceName_Assembly_Guide](/Documentation/BubbleBlowerFan_Assembly_Guide_v1.0.pdf)     |
+| User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/BubbleBlowerFan_Quick_Guide_v1.0.pdf)    |
+| Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/BubbleBlowerFan_Changelog_v1.0.pdf)     |
 
 ### Design Files
 [CAD Files](/Design_Files)
@@ -62,20 +57,12 @@ Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pd
  - [3D Printing Files](/Build_Files/3D_Printing)
 
 ## Attribution
-Designers:
- - Designer 1 
- - Designer 2
-
-
+Modification method and documentation created by Neil Squire / Makers Making Change.
 
 ## License
-Everything needed or used to design, make, test, or prepare the Low Profile Switch is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Everything needed or used to design, make, test, or prepare the Switch Adapted Bubble Blower Fan is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
 
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><Device-Name></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-
-
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Switch Adapted Bubble Blower Fan are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
 ## About Us
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
@@ -88,12 +75,6 @@ We are committed to creating a network of volunteer makers who support people wi
  - GitHub: [https://github.com/makersmakingchange](https://github.com/makersmakingchange)
  - Twitter: [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
-
-## How you can get involved
-1. Help design a solution 
-
-1. 
-3.
 
 
 ## Contact Us
