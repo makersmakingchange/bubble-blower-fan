@@ -47,7 +47,7 @@ Reference the [Assembly Guide](/Documentation/BubbleBlowerFan_Assembly_Guide_v1.
 | Bill of Materials    | 1.0     | [BubbleBlowerFan_Bill_of_Materials](/Documentation/BubbleBlowerFan_BOM_v1.0.xlsx)     |
 | 3D Printing Guide    | 1.0     | [BubbleBlowerFan_3D_Printing_Guide](/Documentation/BubbleBlowerFan_3D_Printing_Guide_v1.0.pdf)     |
 | Assembly Guide       | 1.0     | [BubbleBlowerFan_Assembly_Guide](/Documentation/BubbleBlowerFan_Assembly_Guide_v1.0.pdf)     |
-| User Guide           | 1.0     | [BubbleBlowerFan_User_Guide](/Documentation/BubbleBlowerFan_Quick_Guide_v1.0.pdf)    |
+| User Guide           | 1.0     | [BubbleBlowerFan_User_Guide](/Documentation/BubbleBlowerFan_User_Guide_v1.0.pdf)    |
 | Changelog            | 1.0     | [BubbleBlowerFan_Changelog](/Documentation/BubbleBlowerFan_Changelog_v1.0.pdf)     |
 
 ### Design Files
